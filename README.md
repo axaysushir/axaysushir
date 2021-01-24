@@ -2,6 +2,8 @@
 
 My name is Axay Sushir, and i'm from Bangalore. I am Full Stack developer mostly working on JavaScript, Python, Node.js, React, PostgreSQL & MongoDB.
 I'm working in Facial Recogntion SaaS Platform company that uses AI and Machine Learing to identify faces.
+
+Once in a while i write blog articles to helps developers, In which i share my perosnal experiences related to technoloigies, coding tips and tricks, programming.
 <!--
 **axaysushir/axaysushir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
