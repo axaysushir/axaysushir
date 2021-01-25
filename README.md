@@ -7,7 +7,7 @@ Once in a while i write blog articles to helps developers, In which i share my p
 
 🌱 [My Blog](https://axay.hashnode.dev)
 🧿 [Twitter](https://twitter.com/sushir_axay)
-⚡ [Instagram](https://https://www.instagram.com/axay_sushir)
+⚡ [Instagram](https://https://www.instagram.com/@axay_sushir)
 <!--
 **axaysushir/axaysushir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
