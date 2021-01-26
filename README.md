@@ -8,6 +8,13 @@ Once in a while i write blog articles to helps developers, In which i share my p
 🌱 [My Blog](https://axay.hashnode.dev)
 🧿 [Twitter](https://twitter.com/sushir_axay)
 ⚡ [Instagram](https://www.instagram.com/axay_sushir/)
+
+### Languages and Tools:
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="25" style="vertical-align:top; margin-right:10px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="25" style="vertical-align:top; margin-right:10px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="25" style="vertical-align:top; margin-right:10px">
+</p>
 <!--
 **axaysushir/axaysushir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
