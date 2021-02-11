@@ -3,7 +3,7 @@
 My name is Axay Sushir, and i'm from Bangalore. I am Full Stack developer mostly working on JavaScript, Python, Node.js, React, PostgreSQL & MongoDB.
 I'm working in Facial Recogntion SaaS Platform company that uses AI and Machine Learing to identify faces.
 
-Once in a while i write blog articles to helps developers, In which i share my perosnal experiences related to technoloigies, coding tips & tricks, programming and cloud.
+Once in a while i write blog articles to helps developers, In which i share my perosnal experiences related to technoloigies, coding tips & tricks, programming and cloud. If you want to connect with me, You can find me on these social media platforms.
 
 🌱 [My Blog](https://axay.hashnode.dev)
 🧿 [Twitter](https://twitter.com/sushir_axay)
