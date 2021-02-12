@@ -8,6 +8,7 @@ Once in a while i write blog articles to helps developers, In which i share my p
 🌱 [My Blog](https://axay.hashnode.dev)
 🧿 [Twitter](https://twitter.com/sushir_axay)
 ⚡ [Instagram](https://www.instagram.com/axay_sushir/)
+👯 [LinkedIn](https://www.linkedin.com/in/akshay-sushir-280324119/)
 
 ### Languages and Tools:
 <p align="left">
